@@ -54,11 +54,13 @@ through a webcam using a pre-trained Haarcascade classifier.
 
 
 
+
  ## 📂 Project Structure
 - emotion.py
 - requirement.txt
 - haarcascade_frontalface_default.xml
 - README.md
+- outputt.png
 
 
 
