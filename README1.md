@@ -52,6 +52,7 @@ through a webcam using a pre-trained Haarcascade classifier.
 
 ## 📸 Output screenshot
 
+<img width="441" height="586" alt="image" src="https://github.com/user-attachments/assets/ac8bfec5-2965-4eb6-8a9a-c8105cc03b6e" />
 
 
 
